@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ngnix_Proxy", "Ngnix_Proxy\Ngnix_Proxy.csproj", "{D7451B4B-B493-41BC-B53F-8D6F2A3A8B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7451B4B-B493-41BC-B53F-8D6F2A3A8B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7451B4B-B493-41BC-B53F-8D6F2A3A8B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7451B4B-B493-41BC-B53F-8D6F2A3A8B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7451B4B-B493-41BC-B53F-8D6F2A3A8B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0FC8391-9F09-4792-85FD-BF1AAA4A846B}
+	EndGlobalSection
+EndGlobal
