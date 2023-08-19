@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ngnix_Proxy.props" />
+</Project>

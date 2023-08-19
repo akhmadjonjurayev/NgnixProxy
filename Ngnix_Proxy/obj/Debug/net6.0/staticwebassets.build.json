@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "//obg8wyk1eH2E7OFqWlWEyIdwN4pNhe3cm/q3f+Nc8=",
+  "Source": "Ngnix_Proxy",
+  "BasePath": "_content/Ngnix_Proxy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
